@@ -33,9 +33,11 @@ app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
 ```
-but it wont show anything. splited logic into several files, with kinda default structure. everything can be found in src/
-main point - src/index.ts
-main endpoint - localhost:5000/data
+but it wont show anything. splited logic into several files, with kinda default structure. everything can be found in `src/`
+
+main point - `src/index.ts`
+
+main endpoint - `localhost:5000/data`
 
 ## Second task(estimate - 1h, spent - 15m-20m)
 can be found in `unificator.ts`
